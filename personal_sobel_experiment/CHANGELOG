@@ -1,0 +1,7 @@
+1/17/2019 - Downloaded files and edited the code's style to match my own.
+1/20/2019 - Finished the program.
+1/21/2019 - Wrote a Makefile, this CHANGELOG, and the README.
+1/21/2019 - Experimented with functions, did not keep.
+1/22/2019 - Verified working code with bigger_digger and motorcycle.
+1/22/2019 - Experimented on non-.pgm images as well as non-1024*1024 images (poor results).
+1/23/2019 - Added user input and fixed some errors with the help of the TA, Le Chan.
